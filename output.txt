@@ -1,0 +1,131 @@
+Header file included
+Single line comment deteted. The Comment is: 
+single line comment
+Multiline commment detected! The Comment is: 
+multi line comment 
+Variable name is: sonj and value is: 4
+ prime
+Variable name is: a and value is: 0
+Variable name is: arnob and value is: hello world
+Value of arnob is: hello world
+Variable name is: jobair and value is: 71
+Variable name is: val and value is: 0.893997
+Variable name is: x and value is: 5.000000
+Value of jobair is: 71
+Variable name is: p and value is: 8.000000
+Variable name is: saf and value is: 120
+variable "x" already exists.
+Variable name is: y and value is: 0
+Variable name is: z and value is: 5
+variable "a" already exists.
+Variable name is: b and value is: 20
+Variable name is: c and value is: 2
+Variable name is: sonjoy and value is: 111
+Value of a is: 0
+Value of b is: 20
+Value of c is: 2
+Variable name is: d and value is: 1.100000
+Variable name is: e and value is: 1.100000
+Variable name is: s and value is: text
+Value of s is: text
+Scan Input for a: index: 1
+0
+Scan Input for b: index: 10
+20
+Enter input from console
+Scan Input for d: index: 13
+Enter input from console
+Value of sonjoy is: 111
+<<< IF BLOCK >>>
+Condition Matched in if Block.
+***only if block finished*****
+
+*****Nested if else found********
+
+***only if block finished*****
+
+Variable name is: es and value is: 10
+<<< IF BLOCK >>>
+Condition Didn't match in if Block.
+Variable name is: eq and value is: 69
+Condition Matched in else if Block.
+Variable name is: ef and value is: 20
+Condition Already Matched.
+******if else block finished*******
+
+Variable name is: aa and value is: 2
+Value of aa is: 2
+Variable name is: bb and value is: 1
+Value of bb is: 1
+Value of a is: 0
+**** For Loop Block ****
+For Loop Iteration: 1
+For Loop Iteration: 2
+For Loop Iteration: 3
+For Loop Iteration: 4
+For Loop Iteration: 5
+Variable name is: safwann and value is: 23456
+Value of safwann is: 23456
+*** WHILE BLOCK ***
+Repeat Loop Iteration: 1
+Repeat Loop Iteration: 2
+Repeat Loop Iteration: 3
+Repeat Loop Iteration: 4
+Repeat Loop Iteration: 5
+Repeat Loop Iteration: 6
+Repeat Loop Iteration: 7
+Repeat Loop Iteration: 8
+Repeat Loop Iteration: 9
+Repeat Loop Iteration: 10
+Repeat Loop Iteration: 11
+Repeat Loop Iteration: 12
+Repeat Loop Iteration: 13
+Repeat Loop Iteration: 14
+Repeat Loop Iteration: 15
+Repeat Loop Iteration: 16
+Repeat Loop Iteration: 17
+Repeat Loop Iteration: 18
+Repeat Loop Iteration: 19
+Repeat Loop Iteration: 20
+Repeat Loop Iteration: 21
+Variable name is: jobairrrr and value is: 1112
+Value of jobairrrr is: 1112
+*** WHILE BLOCK ***
+Repeat Loop Iteration: 1
+Repeat Loop Iteration: 2
+Repeat Loop Iteration: 3
+Repeat Loop Iteration: 4
+Repeat Loop Iteration: 5
+Repeat Loop Iteration: 6
+Repeat Loop Iteration: 7
+Repeat Loop Iteration: 8
+Repeat Loop Iteration: 9
+Repeat Loop Iteration: 10
+Repeat Loop Iteration: 11
+Repeat Loop Iteration: 12
+Repeat Loop Iteration: 13
+Repeat Loop Iteration: 14
+Repeat Loop Iteration: 15
+Declaring Function
+Variable name is: arg and value is: 0
+Variable name is: xx and value is: 1010010
+Value of xx is: 1010010
+Function Successfully Called.
+Hello World
+array roll is declared of size 10
+array roll [ 0 ] assigned to 1.50Variable name is: ttt and value is: 10
+10
+inside int case 10 : 
+10 doen't match
+33
+Variable name is: TUl and value is: 11
+inside int case 11 : 
+11 doen't match
+default
+default case from switch case
+Inside switch statement with variable name ttt and value 
+*** switch block*****
+Variable name is: jo and value is: 0
+
+
+COMPILATION SUCCESSFUL!

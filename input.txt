@@ -1,0 +1,100 @@
+import <file.h>
+
+# single line comment
+
+/* multi
+line
+comment
+*/
+int sonj = abs(-4);
+
+int a = prime(3);
+
+string arnob = "hello world";
+print(arnob);
+int jobair = 71;
+float val = sin(90);
+float x = 5;
+print(jobair);
+float p = 2 ^ 3;
+int saf = fact(5);
+
+int x = 1, y = 0;
+int z = x ^^ y;
+
+a = x + y;
+
+int a = 11, b = 20, c = 2;
+int sonjoy = 111;
+print(a, b, c);
+float d = 1.10, e = d;
+string s = "text";
+print(s);
+
+scan(a, b); 
+scan(d);
+
+if(b == c){
+    if( sonjoy > c){
+        print(sonjoy);
+    }
+}
+
+if(a > b) {  
+    int es = 10;
+}
+else if(a < b) {
+    int eq = 69;
+}
+else {
+    int ef = 20;
+}
+
+int aa = b % 3;
+print(aa);
+
+int bb = a <= b;
+print(bb);
+
+for i in [1, 10, 2] {
+    print(a);
+}
+
+repeat(a++ <= b) {
+    int safwann = 23456;
+    print(safwann);
+}
+repeat(b-- > 5) {
+    int jobairrrr = 1112;
+    print(jobairrrr);
+}
+
+
+fun func(int arg) >> int {
+    int xx = 1010010;
+    print(xx);
+    
+}
+
+call func(a);
+
+
+
+print("Hello World");
+
+int arr roll[ 10 ];
+
+roll[ 0] = 1.5;
+int ttt = 10;
+switch (ttt){
+    case 10:
+        print("10");
+    case 11:
+        print("33");
+        int TUl = 11;
+    default:
+        print("default");
+
+}
+
+int jo = ~a;
